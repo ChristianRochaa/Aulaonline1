@@ -1,6 +1,7 @@
 body, ul {
     margin:0px;
     padding: 0px;
+    color:#fff
 }
 a {
     color:rgb(243, 243, 243);
@@ -228,6 +229,9 @@ a:hover {
 .galeria .gallery{
     width: 30%;
     margin: 14px auto 50px;
+}
+.figcaption{
+    color:#fff
 }
 /* CSS footer*/
 .rodape {
